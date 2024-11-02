@@ -1,0 +1,15 @@
+C:\Users\Sajad\source\repos\Tamrin_1\Tamrin_1\obj\Debug\net7.0\Tamrin_1.csproj.AssemblyReference.cache
+C:\Users\Sajad\source\repos\Tamrin_1\Tamrin_1\obj\Debug\net7.0\Tamrin_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sajad\source\repos\Tamrin_1\Tamrin_1\obj\Debug\net7.0\Tamrin_1.AssemblyInfoInputs.cache
+C:\Users\Sajad\source\repos\Tamrin_1\Tamrin_1\obj\Debug\net7.0\Tamrin_1.AssemblyInfo.cs
+C:\Users\Sajad\source\repos\Tamrin_1\Tamrin_1\obj\Debug\net7.0\Tamrin_1.csproj.CoreCompileInputs.cache
+C:\Users\Sajad\source\repos\Tamrin_1\Tamrin_1\bin\Debug\net7.0\Tamrin_1.exe
+C:\Users\Sajad\source\repos\Tamrin_1\Tamrin_1\bin\Debug\net7.0\Tamrin_1.deps.json
+C:\Users\Sajad\source\repos\Tamrin_1\Tamrin_1\bin\Debug\net7.0\Tamrin_1.runtimeconfig.json
+C:\Users\Sajad\source\repos\Tamrin_1\Tamrin_1\bin\Debug\net7.0\Tamrin_1.dll
+C:\Users\Sajad\source\repos\Tamrin_1\Tamrin_1\bin\Debug\net7.0\Tamrin_1.pdb
+C:\Users\Sajad\source\repos\Tamrin_1\Tamrin_1\obj\Debug\net7.0\Tamrin_1.dll
+C:\Users\Sajad\source\repos\Tamrin_1\Tamrin_1\obj\Debug\net7.0\refint\Tamrin_1.dll
+C:\Users\Sajad\source\repos\Tamrin_1\Tamrin_1\obj\Debug\net7.0\Tamrin_1.pdb
+C:\Users\Sajad\source\repos\Tamrin_1\Tamrin_1\obj\Debug\net7.0\Tamrin_1.genruntimeconfig.cache
+C:\Users\Sajad\source\repos\Tamrin_1\Tamrin_1\obj\Debug\net7.0\ref\Tamrin_1.dll
