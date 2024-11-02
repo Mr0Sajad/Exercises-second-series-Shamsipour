@@ -1,0 +1,15 @@
+C:\Users\Sajad\source\repos\tamrin_4\tamrin_4\bin\Debug\net7.0\tamrin_4.exe
+C:\Users\Sajad\source\repos\tamrin_4\tamrin_4\bin\Debug\net7.0\tamrin_4.deps.json
+C:\Users\Sajad\source\repos\tamrin_4\tamrin_4\bin\Debug\net7.0\tamrin_4.runtimeconfig.json
+C:\Users\Sajad\source\repos\tamrin_4\tamrin_4\bin\Debug\net7.0\tamrin_4.dll
+C:\Users\Sajad\source\repos\tamrin_4\tamrin_4\bin\Debug\net7.0\tamrin_4.pdb
+C:\Users\Sajad\source\repos\tamrin_4\tamrin_4\obj\Debug\net7.0\tamrin_4.csproj.AssemblyReference.cache
+C:\Users\Sajad\source\repos\tamrin_4\tamrin_4\obj\Debug\net7.0\tamrin_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sajad\source\repos\tamrin_4\tamrin_4\obj\Debug\net7.0\tamrin_4.AssemblyInfoInputs.cache
+C:\Users\Sajad\source\repos\tamrin_4\tamrin_4\obj\Debug\net7.0\tamrin_4.AssemblyInfo.cs
+C:\Users\Sajad\source\repos\tamrin_4\tamrin_4\obj\Debug\net7.0\tamrin_4.csproj.CoreCompileInputs.cache
+C:\Users\Sajad\source\repos\tamrin_4\tamrin_4\obj\Debug\net7.0\tamrin_4.dll
+C:\Users\Sajad\source\repos\tamrin_4\tamrin_4\obj\Debug\net7.0\refint\tamrin_4.dll
+C:\Users\Sajad\source\repos\tamrin_4\tamrin_4\obj\Debug\net7.0\tamrin_4.pdb
+C:\Users\Sajad\source\repos\tamrin_4\tamrin_4\obj\Debug\net7.0\tamrin_4.genruntimeconfig.cache
+C:\Users\Sajad\source\repos\tamrin_4\tamrin_4\obj\Debug\net7.0\ref\tamrin_4.dll
